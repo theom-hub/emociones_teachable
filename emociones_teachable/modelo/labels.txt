@@ -1,0 +1,4 @@
+0 felicidad
+1 enojo
+2 neutro
+3 tristeza
